@@ -50,3 +50,9 @@ body {
 .logo-text {
     letter-spacing:5px;
 }
+
+.logo-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
