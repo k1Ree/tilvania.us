@@ -42,8 +42,11 @@ body {
     width: 100%;
 }
 
-.text {
+.text, .logo-text {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.logo-text {
+    letter-spacing:5px;
 }
