@@ -1,6 +1,6 @@
 body {
     margin: 5px;
-    background-color: linear-gradient(to right,#b57edc); 
+    background-color: hsl(177, 59%, 68%);
 }
 
 .header {
@@ -42,17 +42,18 @@ body {
     width: 100%;
 }
 
-.text, {
+.text {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.text-logo {
-    letter-spacing:5px;
+
+.textin {
+    font-family: "Madimi One", sans-serif;
     display: flex;
-    align-items: center;
     justify-content: center;
-    display: flex;
     align-items: center;
-    justify-content: center
+    letter-spacing: 5px;
+    font-size: 20px;
+    padding-top: 100px;
 }
