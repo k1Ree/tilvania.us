@@ -42,17 +42,17 @@ body {
     width: 100%;
 }
 
-.text, .logo-text {
+.text, {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.logo-text {
+.text-logo {
     letter-spacing:5px;
-}
-
-.logo-text {
     display: flex;
     align-items: center;
     justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center
 }
